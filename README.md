@@ -1,7 +1,7 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
 
-<h3>ENTER YOUR NAME : ABRIN NISHA A</h3>
-<h3>ENTER YOUR REGISTER NO : 212222230005</h3>
+<h3>ENTER YOUR NAME : AMRUTHA S A
+<h3>ENTER YOUR REGISTER NO : 212222110004
 <h3>EX. NO : 3</h3>
 <h3>DATE : 05/10/2024</h3>
 <h1> <align=center> PARALLEL REDUCTION USING UNROLLING TECHNIQUES </h3>
@@ -389,4 +389,4 @@ int main(int argc, char **argv)
 
 ## RESULT :
   
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 1048576 has executed with less elapsed time than 1048576 with blocks 2.73 ms,116.58 ms.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 1048576 has executed with less elapsed time than 1048576 with blocks 2.73 ms,116.58 ms
